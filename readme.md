@@ -1,3 +1,4 @@
+# DOPP Project
 ## Based on the assigned question from exercise, we have added some sub-questions to specifically explore different aspects
 
 Here is an overview of changes and work distribution of all members on the questions:
@@ -21,4 +22,4 @@ Here is an overview of changes and work distribution of all members on the quest
    2. Which countries in Europe are leading the way in reducing fossil fuel consumption, and which are lagging? [ Kartik ]
    3. Have there been events in recent history that delayed the phase-out of fossil fuels? [ Kartik ]
    4. What are the main obstacles that European countries face in achieving their fossil fuel reduction targets (e.g., economic factors, political challenges, infrastructure limitations)? (Anum)
-# DOPP_Project
+
